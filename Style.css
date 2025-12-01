@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+
+h1 {
+    font-size: 250%;
+    margin-left: 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif
+}
+
+
+
+h4 {
+    font-size: 150%;
+    position: sticky;
+
+
+}
+
+
+#boitepara {
+    border: #333333;
+    border-width: 3px;
+    border-style: solid;
+    width: 30%;
+    height: 125%;
+    text-align: center;
+    margin-left: 32%;
+    align-self: center;
+    position: sticky;
+    background-color: #bbbbbb;
+
+}
+
+#Titre {
+
+    margin-bottom: 4%;
+
+
+}
+
+#time {
+
+    margin-bottom: 4%;
+}
+
+#Nbparticipant {
+    margin-bottom: 4%;
+}
+
+#Thèmes {
+
+    margin-bottom: 3%;
+}
+
+#Confirmer {
+
+    margin-right: 75%;
+
+}

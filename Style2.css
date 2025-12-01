@@ -1,0 +1,15 @@
+#Titre1 {
+
+    margin-left: 35%;
+    color: white;
+    position: fixed;
+    margin-top: 2%;
+    font-size: 300%;
+    background-color: yellowgreen;
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    align-content: center;
+    font-weight: bold;
+    font-style: oblique;
+}
